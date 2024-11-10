@@ -1,2 +1,16 @@
-*/build/ 
-*/*.user
+# Ignore build directories
+build-*/
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.ninja
+
+# Ignore Qt Creator files
+.qtc/
+*.user
+*.pro.user
+
+# Ignore clangd cache
+.qtc_clangd/
