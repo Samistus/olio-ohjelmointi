@@ -1,7 +1,0 @@
-D:/Koulu/Git/olio-ohjelmointi/build-H5-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build/CMakeFiles/H5.dir
-D:/Koulu/Git/olio-ohjelmointi/build-H5-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build/CMakeFiles/edit_cache.dir
-D:/Koulu/Git/olio-ohjelmointi/build-H5-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build/CMakeFiles/rebuild_cache.dir
-D:/Koulu/Git/olio-ohjelmointi/build-H5-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build/CMakeFiles/list_install_components.dir
-D:/Koulu/Git/olio-ohjelmointi/build-H5-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build/CMakeFiles/install.dir
-D:/Koulu/Git/olio-ohjelmointi/build-H5-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build/CMakeFiles/install/local.dir
-D:/Koulu/Git/olio-ohjelmointi/build-H5-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build/CMakeFiles/install/strip.dir
