@@ -1,0 +1,16 @@
+# ninja log v5
+2	571	7553949159397050	CMakeFiles/H5.dir/main.cpp.obj	779b8769f5b2eb29
+2	413	7553949297958272	CMakeFiles/H5.dir/classb.cpp.obj	f3907d994bf2a52e
+414	620	7553949299988730	H5.exe	af1280b0e4f255a6
+27	414	7553949297958272	CMakeFiles/H5.dir/assosiationa.cpp.obj	fcf54adac5294418
+30	200	7553952338655950	CMakeFiles/H5.dir/aggregationa.cpp.obj	dba84027ed60bb31
+3	552	7553952342176738	CMakeFiles/H5.dir/main.cpp.obj	779b8769f5b2eb29
+552	723	7553952343867117	H5.exe	4cd34ada2e1aed4a
+3	547	7553953183060468	CMakeFiles/H5.dir/main.cpp.obj	779b8769f5b2eb29
+547	704	7553953184600814	H5.exe	4cd34ada2e1aed4a
+3	549	7553954466677355	CMakeFiles/H5.dir/main.cpp.obj	779b8769f5b2eb29
+3	410	7553954569087035	CMakeFiles/H5.dir/assosiationa.cpp.obj	fcf54adac5294418
+411	568	7553954570637385	H5.exe	4cd34ada2e1aed4a
+3	536	7553955359147939	CMakeFiles/H5.dir/main.cpp.obj	779b8769f5b2eb29
+2	425	7553955596668798	CMakeFiles/H5.dir/aggregationa.cpp.obj	dba84027ed60bb31
+425	584	7553955598229147	H5.exe	4cd34ada2e1aed4a
